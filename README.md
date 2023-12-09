@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Noor E Zannat Naomy</h1>
 <h3 align="center">A Fullstack Developer passionate about problem solving </h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="coding" width="400" margin-bottom="30" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naomy95&label=Profile%20views&color=0e75b6&style=flat" alt="naomy95" /> </p>
+- ⚡ Fun fact **I love to sing**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naomy95" alt="naomy95" /></a> </p>
 
@@ -13,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Y1tFix632MpQVKVeZV2WDfGARfinShvN/view?usp=sharing](https://drive.google.com/file/d/1Y1tFix632MpQVKVeZV2WDfGARfinShvN/view?usp=sharing)
 
-- ⚡ Fun fact **I love to sing**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
